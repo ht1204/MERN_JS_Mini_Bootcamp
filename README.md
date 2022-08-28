@@ -24,6 +24,7 @@ Run backend server first and do this:
 
     -Check the URL: `http://localhost:3000`
 
-The ports of server can be modified and must be different each other
+The ports of server can be modified and must be different each other.
+
 Finally, Enjoy!
 
