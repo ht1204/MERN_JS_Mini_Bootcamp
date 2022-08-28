@@ -1,0 +1,24 @@
+{
+  "name": "mern_eduonix",
+  "version": "1.0.0",
+  "description": "MERN eduonix demo",
+  "main": "./server/index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MERN",
+    "Eduonix"
+  ],
+  "author": "ht1204",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "typescript": "^4.8.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
